@@ -66,7 +66,7 @@ Her egzersizin kendi <i>Makefile</i>’ı vardır. İlgili klasörde hedefleri k
 
 ```bash
 # Repoyu klonla
-git clone https://github.com/serhatozbek/42_Cpp_Module__01.git
+git clone https://github.com/serhatozbek/42_Cpp_Module_01.git
 
 # Klasöre git
 cd 42_Cpp_Module__01
