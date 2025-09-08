@@ -58,6 +58,8 @@ Bu modülün temel amacı, C++’ta nesne ömrünü ve sahipliği anlamak, refer
 
 + Girilen seviyeye göre o seviye ve üstü mesajları yazdıran basit filtre (switch + fallthrough).
 
+---
+
 ### ⚙️ Nasıl Derlenir ve Kullanılır?
 
 Her egzersizin kendi <i>Makefile</i>’ı vardır. İlgili klasörde hedefleri kullanabilirsin.
