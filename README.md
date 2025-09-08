@@ -38,7 +38,7 @@ Bu modülün temel amacı, C++’ta nesne ömrünü ve sahipliği anlamak, refer
 
 + Pointer vs reference: adresler, değerler, aliasing çıktılarının karşılaştırılması.
 
-<b>ex03: Unnecessary violence</b>
+<b>ex03: Violence</b>
 
 + İki aktör ve bir <i>Weapon</i> sınıfı ile referans/pointer tutmanın davranış farkları.
 
